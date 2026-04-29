@@ -1,6 +1,6 @@
 # All Restaurants in Minneapolis, Minnesota, US
 
-> Free BeamStation sample export with 74 rows and masked direct-contact fields.
+> Free BeamStation sample export with 119 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `241062` |
 | Location | Minneapolis |
 | Category | Restaurants |
-| Full dataset size | 740 records |
-| Free sample size | 74 records (10.0%) |
-| Last export | 2026-04-21T23:18:21.470804+00:00 |
+| Full dataset size | 1,195 records |
+| Free sample size | 119 records (9.96%) |
+| Last export | 2026-04-29T02:16:12.459574+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-minneapolis-minnesota-us-sample-241062/releases/download/sample-latest/beamstation_241062_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
